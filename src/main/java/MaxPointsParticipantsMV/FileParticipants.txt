@@ -1,0 +1,10 @@
+1, Maria Serbanescu,19
+1, Dan Mihailescu,35
+1, Geo Protopopescu,19
+1, Adrian Bitanescu,20
+1, Anca Anca,6
+7, ppp,35
+5, uuuu,35
+34, aaa,35
+69, pppp,35
+2, Andreea Vescan,25
