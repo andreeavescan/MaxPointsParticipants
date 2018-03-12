@@ -19,7 +19,7 @@ public class AppTest extends TestCase
 
     private Repository rep;
     private ParticipantController ctrl;
-    //@Test
+
     public void test_tc_4_AllParticipantsMax() {
 
         rep = new Repository("src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxAll.txt");
@@ -29,7 +29,7 @@ public class AppTest extends TestCase
 
         assertEquals(4, noParticipantsMax);
     }
-    //@Test
+
     public void test_tc_3_AllParticipantsOnlyOne() {
         rep = new Repository("src/test/java/MaxPointsParticipantsMV/FileParticipantsMaxOne.txt");
 
@@ -39,7 +39,7 @@ public class AppTest extends TestCase
         assertEquals(1, noParticipantsMax);
     }
 
-    //@Test
+
     public void test_tc_20_ParticipantsWith99Points() {
         rep = new Repository("src/test/java/MaxPointsParticipantsMV/FileParticipants99Points.txt");
 
