@@ -1,0 +1,5 @@
+MaxPointsParticipantsMV\repository\Repository.class
+MaxPointsParticipantsMV\ui\ParticipantUI.class
+MaxPointsParticipantsMV\App.class
+MaxPointsParticipantsMV\controller\ParticipantController.class
+MaxPointsParticipantsMV\model\Participant.class
