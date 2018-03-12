@@ -94,7 +94,7 @@ public class AppTestWBT extends TestCase {
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testAppWBT()
     {
         assertTrue( true );
     }
