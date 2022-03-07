@@ -5,7 +5,7 @@ import org.junit.Test;
 import controller.ParticipantController;
 import repository.Repository;
 
-public class AppTestWBT {
+public class AppWBTTest {
 
     private Repository rep;
     private ParticipantController ctrl;
